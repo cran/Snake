@@ -1,0 +1,5 @@
+export(PlaySnake)
+importFrom("graphics", "plot", "rasterImage", "par", "text")
+importFrom("utils", "flush.console", "packageVersion")
+importFrom("grDevices", "rgb", "dev.new")
+importFrom("stats", "runif")
